@@ -11,63 +11,63 @@ A carefully curated list of Open Hardware resources
 - [Further readings](#further-readings)    
   
 ## Projects  
-- [Arduino](https://www.arduino.cc/) - Arduino is an open-source electronics platform  
-- [Prusa3D](https://www.prusa3d.com/) - 3D printer manufacturer who shares their work open online  
-- [Precious Plastic](https://www.prusa3d.com/) - Tools to make plastic recycling as simple as possible    
-- [Open Source Ecology](https://www.opensourceecology.org/) - Industrial machines made open  
-- [SafeCast](https://safecast.org/) - Environmental measurements for the public domain  
-- [WikiHouse](https://www.wikihouse.cc/) - Digital designed open housing  
-- [RepRep](https://reprap.org/wiki/RepRap) - humanity's first general-purpose self-replicating manufacturing machine  
-- [OpenBCI](https://openbci.com/) - Brain computer interface  
+- [Arduino](https://www.arduino.cc/) - Arduino is an open-source electronics platform.  
+- [Prusa3D](https://www.prusa3d.com/) - 3D printer manufacturer who shares their work open online.  
+- [Precious Plastic](https://www.prusa3d.com/) - Tools to make plastic recycling as simple as possible.    
+- [Open Source Ecology](https://www.opensourceecology.org/) - Industrial machines made open.  
+- [SafeCast](https://safecast.org/) - Environmental measurements for the public domain.  
+- [WikiHouse](https://www.wikihouse.cc/) - Digital designed open housing.  
+- [RepRep](https://reprap.org/wiki/RepRap) - humanity's first general-purpose. self-replicating manufacturing machine.  
+- [OpenBCI](https://openbci.com/) - Brain computer interface.  
   
 ## Talks - Video  
-- [How Open Hardware will Take Over the World](https://www.youtube.com/watch?v=Rfu_MKgu2Ik) -  
-- [Revolution of the open hardware](https://www.youtube.com/watch?v=t56bojFAnUg) -  
-- [Why do open hardware](https://www.youtube.com/watch?v=UYRhupdnUcY) -  
-- [Get your open hardware manufactured](https://www.youtube.com/watch?v=ifTaGRTPwLc) -  
-- [Open Hardware Projects to Fight COVID-19](https://www.youtube.com/watch?v=c1pwbnDAub0) -  
-- [Designing Open Hardware for 21st century science](https://www.youtube.com/watch?v=Od_9yJqc098) -  
-- [Why open source hardware is(n't) working](https://www.youtube.com/watch?v=7ifGu22bhd4) -  
-- [Open source and the future of hardware](https://www.youtube.com/watch?v=_EZT57dtWHM) -  
-  
+- [How Open Hardware will Take Over the World](https://www.youtube.com/watch?v=Rfu_MKgu2Ik) - TEDx talk by Nathan Seidle.  
+- [Revolution of the open hardware](https://www.youtube.com/watch?v=t56bojFAnUg) - TEDx talk by Bram Geenen.  
+- [Why do open hardware](https://www.youtube.com/watch?v=UYRhupdnUcY) - Talk by Limor Fried (ladyada).   
+- [Get your open hardware manufactured](https://www.youtube.com/watch?v=ifTaGRTPwLc) - Tips by Ian Tube, dangerous prototypes.  
+- [Open Hardware Projects to Fight COVID-19](https://www.youtube.com/watch?v=c1pwbnDAub0) - Collection video from N-O-D-E.  
+- [Designing Open Hardware for 21st century science](https://www.youtube.com/watch?v=Od_9yJqc098) - Presentation by Andre Maia Chagas.  
+- [Why open source hardware is(n't) working](https://www.youtube.com/watch?v=7ifGu22bhd4) - Presentation by David Cuartielles.  
+- [Open source and the future of hardware](https://www.youtube.com/watch?v=_EZT57dtWHM) - Talk by Neil Gershenfeld.    
+
 ## Papers  
-- [What is the “Source” of Open Source Hardware?](https://doi.org/10.5334/joh.7) -   
-- [Emerging Business Models for Open Source Hardware](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3331121) -  
-- [Towards national policy for open source hardware research: The case of Finland](https://doi.org/10.1016/j.techfore.2020.119986) -  
-- [Open-Source Hardware in Education: A Systematic Mapping Study](http://dx.doi.org/10.1109/ACCESS.2018.2881929) -  
+- [What is the “Source” of Open Source Hardware?](https://doi.org/10.5334/joh.7) - Paper by Jérémy Bonvoisin, Robert Mies, Jean-François Boujut, Rainer Stark   
+- [Emerging Business Models for Open Source Hardware](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3331121) - Paper by Joshua M. Pearce.  
+- [Towards national policy for open source hardware research: The case of Finland](https://doi.org/10.1016/j.techfore.2020.119986) - Paper by I.T.S. Heikkinen, H. Savin, J. Partanen, J. SeppäläJ, M. Pearce
+- [Open-Source Hardware in Education: A Systematic Mapping Study](http://dx.doi.org/10.1109/ACCESS.2018.2881929) - Paper by Ruben Heradio, Jesus Chacon, Hector Vargas, Daniel Galan, Jacobo Saenz, Luis De La Torre, Sebastian Dormido
+  
 
 ## Conferences    
-- [Fosdem](https://fosdem.org/2022/) -  
-- [open hardware summit](https://2022.oshwa.org/) -  
-- [Maker faire](https://makerfaire.com/) -  
-- [Remoticon](https://remoticon.io/) -  
+- [Fosdem](https://fosdem.org/2022/) - Open Source event online on 5 & 6 February 2022.  
+- [Open Hardware Summit](https://2022.oshwa.org/) - Annual conference on open hardware on 22 April 2022. 
+- [Maker Faire](https://makerfaire.com/) - A celebration of the Maker Movement, locally organized.  
   
 ## Platforms  
-- [Open Hardware Repository](https://ohwr.org/welcome) - for electronics designers at experimental physics facilities to collaborate on open hardware designs.  
+- [Open Hardware Repository](https://ohwr.org/welcome) - For electronics designers at experimental physics facilities to collaborate on open hardware designs.  
 - [Open Hardware Observatory](https://en.oho.wiki/wiki/Home) - Free blueprints for sustainable open hardware.  
-- [Instructables](http://www.instructables.com/tag/type-id/category-technology/) - Instructables is a place that lets you explore, document, and share your cr  eations.  
+- [Instructables](http://www.instructables.com/tag/type-id/category-technology/) - Instructables is a place that lets you explore, document, and share your creations.  
 - [Hackaday.io](https://hackaday.io/) - Hackaday.io is the world's largest collaborative hardware development community.  
 - [Hackster.io](https://www.hackster.io/about) - Connecting developers where exploring tomorrow starts today.  
-- [Openhardware.io](https://www.openhardware.io/about) - Tracking amazing open hardware projects   
-- [Openhardware.science](https://openhardware.science/) - make open science hardware ubiquitous by 2025  
+- [Openhardware.io](https://www.openhardware.io/about) - Tracking amazing open hardware projects.   
+- [Openhardware.science](https://openhardware.science/) - Make open science hardware ubiquitous by 2025.  
 - [Openlifescience](https://openlifesci.org/) - Program to make Open Science ambassadors in research.  
   
 ## Podcasts  
-- [Road to Open Science](https://open.spotify.com/episode/46WwrOofygFyGrp6X42NOe?si=_qxPzPXkQaGNBqB-bnKwyw) -  
-- [Physics Worlds](https://open.spotify.com/episode/4pjaUpl96YhjqBvjzV0K1H?si=ssJJH7ouSOW_ttGvF2Mtdg) -  
-- [Command Line Heroes](https://open.spotify.com/episode/1yGuG9TKvS2lkH7wgRO8YF?si=PwAZCT0qSxW87HQlCa7AeA) -  
-- [A-podcast](https://open.spotify.com/episode/2Zp3q6ePDCp0Yeyq9ADDny?si=8_CuBG2ESEeoxvcspVi3Xg) -  
-- [Amp hour](https://podcasts.google.com/feed/aHR0cHM6Ly90aGVhbXBob3VyLmxpYnN5bi5jb20vcnNz/episode/aHR0cDovL3d3dy50aGVhbXBob3VyLmNvbS8_cD0xNTg?sa=X&ved=0CAIQuIEEahcKEwjgkZnWjPr0AhUAAAAAHQAAAAAQCA) -
-- [Semiconductor Insiders](https://semiwiki.com/podcast/podcast-ep44-open-hardware-diversity-alliance/) -  
-- [Open source hardware podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9wcm9ncmFtbWluZ2VsZWN0cm9uaWNzLmNvbS9jYXRlZ29yeS9yYWRpby1zaG93L2ZlZWQv) -  
+- [Road to Open Science](https://open.spotify.com/episode/46WwrOofygFyGrp6X42NOe?si=_qxPzPXkQaGNBqB-bnKwyw) - Episode on open hardware in the Netherlands.   
+- [Physics Worlds](https://open.spotify.com/episode/4pjaUpl96YhjqBvjzV0K1H?si=ssJJH7ouSOW_ttGvF2Mtdg) - Episode on the global impact of open hardware.
+- [Command Line Heroes](https://open.spotify.com/episode/1yGuG9TKvS2lkH7wgRO8YF?si=PwAZCT0qSxW87HQlCa7AeA) -  Episode Makers unite.
+- [A-podcast](https://open.spotify.com/episode/2Zp3q6ePDCp0Yeyq9ADDny?si=8_CuBG2ESEeoxvcspVi3Xg) -  Open source hardware is the future.  
+- [Amp hour](https://podcasts.google.com/feed/aHR0cHM6Ly90aGVhbXBob3VyLmxpYnN5bi5jb20vcnNz/episode/aHR0cDovL3d3dy50aGVhbXBob3VyLmNvbS8_cD0xNTg?sa=X&ved=0CAIQuIEEahcKEwjgkZnWjPr0AhUAAAAAHQAAAAAQCA) - Open Hardware and The Creative Economy
+- [Semiconductor Insiders](https://semiwiki.com/podcast/podcast-ep44-open-hardware-diversity-alliance/) - Open Hardware Diversity Alliance  
+- [Open source hardware podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9wcm9ncmFtbWluZ2VsZWN0cm9uaWNzLmNvbS9jYXRlZ29yeS9yYWRpby1zaG93L2ZlZWQv) - by the Programming Electronics Academy  
   
 ## Further Reading  
-- [Wikipedia](https://en.wikipedia.org/wiki/Open-source_hardware) -   
-- [Building open source hardware](https://books.google.nl/books?id=wg27BQAAQBAJ&lpg=PP1&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) -  
-- [Open-source Lab](https://books.google.nl/books?id=0bOKAAAAQBAJ&lpg=PP1&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) -  
-- [Free to Make](https://books.google.nl/books?id=jz1bCwAAQBAJ&lpg=PA93&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) -  
-- [The bridge](https://www.nae.edu/174695/Fall-Bridge-on-Open-Source-Hardware) -  
+- [Wikipedia](https://en.wikipedia.org/wiki/Open-source_hardware) - General information about Open Source Hardware. 
+- [Building open source hardware](https://books.google.nl/books?id=wg27BQAAQBAJ&lpg=PP1&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) - Book by Alicia Gibb, on building open source hardware from 2014.
+- [Open-source Lab](https://books.google.nl/books?id=0bOKAAAAQBAJ&lpg=PP1&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) - Book by Josua m. Pearce, how to build your own hardware and reduce costs.  
+- [Free to Make](https://books.google.nl/books?id=jz1bCwAAQBAJ&lpg=PA93&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) -  Book by Dale Dougherty, how the maker movement is chaning our schools, our jobs, and our minds.  
+- [The bridge](https://www.nae.edu/174695/Fall-Bridge-on-Open-Source-Hardware) - Issue of the national academy of engineering on open source hardware.
   
 ## Related awesome  
-- [https://github.com/ajaymnk/open-electronics](https://github.com/ajaymnk/open-electronics)  
-- [https://github.com/paulhendricks/awesome-open](https://github.com/paulhendricks/awesome-open)  
+- [Awesome Open Electronics](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
+- [Awesome Open](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.  
