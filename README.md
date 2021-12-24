@@ -72,3 +72,11 @@
 ## Related awesome  
 - [Awesome Open Electronics](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
 - [Awesome Open](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.  
+
+## Contributing
+Additional suggestions are welcomed! Check out contributing.md for guidelines.
+
+(NOTE: If you're a maintainer listed on here who would like to be removed, just open an issue or email me privately.)
+
+## License and attribution
+This list is available under the Creative Commons CC0 1.0 License, meaning you are free to use it for any purpose, commercial or non-commercial, without any attribution back to me (public domain). (If you ever want to reference us, find us at [delftopenhardware.nl](https://delftopenhardware.nl). But you are in no way required to do so.)
