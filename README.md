@@ -1,5 +1,6 @@
-# Awesome Open Hardware  
-A carefully curated list of Open Hardware resources  
+# Awesome Open Hardware [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+🛠 Helpful items for making and learning about open source hardware projects.
   
 ## Contents  
 - [Projects](#projects)    
@@ -20,7 +21,7 @@ A carefully curated list of Open Hardware resources
 - [RepRep](https://reprap.org/wiki/RepRap) - humanity's first general-purpose. self-replicating manufacturing machine.  
 - [OpenBCI](https://openbci.com/) - Brain computer interface.  
   
-## Talks - Video  
+## Talks 
 - [How Open Hardware will Take Over the World](https://www.youtube.com/watch?v=Rfu_MKgu2Ik) - TEDx talk by Nathan Seidle.  
 - [Revolution of the open hardware](https://www.youtube.com/watch?v=t56bojFAnUg) - TEDx talk by Bram Geenen.  
 - [Why do open hardware](https://www.youtube.com/watch?v=UYRhupdnUcY) - Talk by Limor Fried (ladyada).   
