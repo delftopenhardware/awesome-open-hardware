@@ -21,6 +21,7 @@
 - [RepRep](https://reprap.org/wiki/RepRap) - humanity's first general-purpose. self-replicating manufacturing machine.  
 - [OpenBCI](https://openbci.com/) - Brain computer interface. 
 - [OpenSPIM](https://openspim.org/) - Open Access platform for Three-dimensional (3D) microscopy.
+- [mesoSPIM](http://mesospim.org/) - Open-source light-sheet microscopes for imaging in cleared tissue.
   
 ## Talks 
 - [How Open Hardware will Take Over the World](https://www.youtube.com/watch?v=Rfu_MKgu2Ik) - TEDx talk by Nathan Seidle.  
