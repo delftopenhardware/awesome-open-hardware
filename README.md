@@ -23,6 +23,7 @@
 - [OpenSPIM](https://openspim.org/) - Open Access platform for Three-dimensional (3D) microscopy.
 - [mesoSPIM](http://mesospim.org/) - Open-source light-sheet microscopes for imaging in cleared tissue.
 - [openUC2](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
+- [OpenFlexure](https://openflexure.org/) - Open-source, 3D-printed microscope, including a precise mechanical stage.
   
 ## Talks 
 - [How Open Hardware will Take Over the World](https://www.youtube.com/watch?v=Rfu_MKgu2Ik) - TEDx talk by Nathan Seidle.  
