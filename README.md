@@ -20,6 +20,7 @@
 - [WikiHouse](https://www.wikihouse.cc/) - Digital designed open housing.  
 - [RepRep](https://reprap.org/wiki/RepRap) - humanity's first general-purpose. self-replicating manufacturing machine.  
 - [OpenBCI](https://openbci.com/) - Brain computer interface.  
+- [OpenFlexture](https://openflexure.org/) - An open source microscope that is mostly 3D printed.
   
 ## Talks 
 - [How Open Hardware will Take Over the World](https://www.youtube.com/watch?v=Rfu_MKgu2Ik) - TEDx talk by Nathan Seidle.  
