@@ -1,17 +1,21 @@
-# Awesome Open Hardware [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Open Hardware [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<!-- omit in toc -->
 
 🛠 Helpful items for making and learning about open source hardware projects.
 
 ## Contents
 
+* [Contents](#contents)
 * [Projects](#projects)
 * [Talks](#talks)
 * [Papers](#papers)
 * [Conferences](#conferences)
 * [Platforms](#platforms)
 * [Podcasts](#podcasts)
-* [Further readings](#further-readings)
-* [Financial](#financial)
+* [Books](#books)
+* [Further Readings](#further-readings)
+* [Related awesome](#related-awesome)
+* [Contributing](#contributing)
+* [License and attribution](#license-and-attribution)
 
 ## Projects
 
@@ -56,12 +60,12 @@
 
 * [Open Hardware Repository](https://ohwr.org/welcome) - For electronics designers at experimental physics facilities to collaborate on open hardware designs.
 * [Open Hardware Observatory](https://en.oho.wiki/wiki/Home) - Free blueprints for sustainable open hardware.
-* [Instructables](http://www.instructables.com/tag/type-id/category-technology/) - Instructables is a place that lets you explore, document, and share your creations.
-* [Hackaday.io](https://hackaday.io/) - Hackaday.io is the world's largest collaborative hardware development community.
+* [Instructables](http://www.instructables.com/tag/type-id/category-technology/) - Instructables is a place that lets you explore, document, and share your creations.
+* [Hackaday.io](https://hackaday.io/) - Hackaday.io is the world's largest collaborative hardware development community.
 * [Hackster.io](https://www.hackster.io/about) - Connecting developers where exploring tomorrow starts today.
 * [Openhardware.io](https://www.openhardware.io/about) - Tracking amazing open hardware projects.
 * [Openhardware.science](https://openhardware.science/) - Make open science hardware ubiquitous by 2025.
-* [Openlifescience](https://openlifesci.org/) - Program to make Open Science ambassadors in research.
+* [Openlifescience](https://openlifesci.org/) - Program to make Open Science ambassadors in research.
 
 ## Podcasts
 
@@ -73,18 +77,20 @@
 * [Semiconductor Insiders](https://semiwiki.com/podcast/podcast-ep44-open-hardware-diversity-alliance/) - Open Hardware Diversity Alliance
 * [Open source hardware podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9wcm9ncmFtbWluZ2VsZWN0cm9uaWNzLmNvbS9jYXRlZ29yeS9yYWRpby1zaG93L2ZlZWQv) - by the Programming Electronics Academy
 
-## Further Readings
+## Books
 
-* [Open Source Guide](https://opensource.guide/) - A website created by Github to help people work on open source projects.
-* [Wikipedia](https://en.wikipedia.org/wiki/Open-source_hardware) - General information about Open Source Hardware.
 * [Building open source hardware](https://books.google.nl/books?id=wg27BQAAQBAJ&lpg=PP1&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) - Book by Alicia Gibb, on building open source hardware from 2014.
 * [Open-source Lab](https://books.google.nl/books?id=0bOKAAAAQBAJ&lpg=PP1&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) - Book by Josua m. Pearce, how to build your own hardware and reduce costs.
 * [Free to Make](https://books.google.nl/books?id=jz1bCwAAQBAJ&lpg=PA93&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) -  Book by Dale Dougherty, how the maker movement is chaning our schools, our jobs, and our minds.
 * [The bridge](https://www.nae.edu/174695/Fall-Bridge-on-Open-Source-Hardware) - Issue of the national academy of engineering on open source hardware.
 
-## Financial
+## Further Readings
 
-* [Open Collective](https://opencollective.com/) - Open Collective enables groups to quickly set up a collective, raise funds and manage them transparently.
+* [Open Source Guide](https://opensource.guide/) - A website created by Github to help people work on open source projects.
+* [Wikipedia](https://en.wikipedia.org/wiki/Open-source_hardware) - General information about Open Source Hardware.
+* [Open Collective](https://opencollective.com/) - enables groups to quickly set up a collective, raise funds and manage them transparently.
+* [The Journal of Open Hardware](https://openhardware.metajnl.com/) - (JOH) is a peer reviewed open access publication for open hardware research and development.
+* [OSHWA Certification](https://certification.oshwa.org/) -  provides an easy and straightforward way for producers to indicate that their products meet a uniform and well-defined standard for open-source compliance.
 
 ## Related awesome
 
