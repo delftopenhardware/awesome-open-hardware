@@ -66,6 +66,7 @@
 * [Openhardware.io](https://www.openhardware.io/about) - Tracking amazing open hardware projects.
 * [Openhardware.science](https://openhardware.science/) - Make open science hardware ubiquitous by 2025.
 * [Openlifescience](https://openlifesci.org/) - Program to make Open Science ambassadors in research.
+* [Thingiverse](https://www.thingiverse.com/) - A platform for sharing and contributing to design hardware for 3D printing, laser cutting and CNC milling.
 
 ## Podcasts
 
