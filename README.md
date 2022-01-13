@@ -91,6 +91,7 @@
 * [Open Collective](https://opencollective.com/) - enables groups to quickly set up a collective, raise funds and manage them transparently.
 * [The Journal of Open Hardware](https://openhardware.metajnl.com/) - (JOH) is a peer reviewed open access publication for open hardware research and development.
 * [OSHWA Certification](https://certification.oshwa.org/) -  provides an easy and straightforward way for producers to indicate that their products meet a uniform and well-defined standard for open-source compliance.
+* [HardwareX Journal](https://www.journals.elsevier.com/hardwarex) - An open access scientific hardware journal.
 
 ## Related awesome
 
