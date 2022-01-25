@@ -31,6 +31,8 @@
 * [mesoSPIM](http://mesospim.org/) - Open-source light-sheet microscopes for imaging in cleared tissue.
 * [openUC2](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
 * [OpenFlexure](https://openflexure.org/) - Open-source, 3D-printed microscope, including a precise mechanical stage.
+* [Biohack Academy](http://biohackacademy.github.io/) - Open-source biotechnological hardware such as Incubator, Thermocycler, Centrifuge, Microscope, etc.
+* [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - Open-source hardware projects for biology laboratories.
 
 ## Talks
 
@@ -66,6 +68,7 @@
 * [Openhardware.io](https://www.openhardware.io/about) - Tracking amazing open hardware projects.
 * [Openhardware.science](https://openhardware.science/) - Make open science hardware ubiquitous by 2025.
 * [Openlifescience](https://openlifesci.org/) - Program to make Open Science ambassadors in research.
+* [Thingiverse](https://www.thingiverse.com/) - A platform for sharing and contributing to design hardware for 3D printing, laser cutting and CNC milling.
 
 ## Podcasts
 
@@ -91,6 +94,7 @@
 * [Open Collective](https://opencollective.com/) - enables groups to quickly set up a collective, raise funds and manage them transparently.
 * [The Journal of Open Hardware](https://openhardware.metajnl.com/) - (JOH) is a peer reviewed open access publication for open hardware research and development.
 * [OSHWA Certification](https://certification.oshwa.org/) -  provides an easy and straightforward way for producers to indicate that their products meet a uniform and well-defined standard for open-source compliance.
+* [HardwareX Journal](https://www.journals.elsevier.com/hardwarex) - An open access scientific hardware journal.
 
 ## Related awesome
 
