@@ -4,7 +4,6 @@
 
 ## Contents
 
-* [Contents](#contents)
 * [Projects](#projects)
 * [Talks](#talks)
 * [Papers](#papers)
@@ -21,11 +20,11 @@
 
 * [Arduino](https://www.arduino.cc/) - Arduino is an open-source electronics platform.
 * [Prusa3D](https://www.prusa3d.com/) - 3D printer manufacturer who shares their work open online.
-* [Precious Plastic](https://www.prusa3d.com/) - Tools to make plastic recycling as simple as possible.
+* [Precious Plastic](https://www.preciousplastic.com/) - Tools to make plastic recycling as simple as possible.
 * [Open Source Ecology](https://www.opensourceecology.org/) - Industrial machines made open.
 * [SafeCast](https://safecast.org/) - Environmental measurements for the public domain.
 * [WikiHouse](https://www.wikihouse.cc/) - Digital designed open housing.
-* [RepRep](https://reprap.org/wiki/RepRap) - humanity's first general-purpose. self-replicating manufacturing machine.
+* [RepRep](https://reprap.org/wiki/RepRap) - Humanity's first general-purpose, self-replicating manufacturing machine.
 * [OpenBCI](https://openbci.com/) - Brain computer interface.
 * [OpenSPIM](https://openspim.org/) - Open Access platform for Three-dimensional (3D) microscopy.
 * [mesoSPIM](http://mesospim.org/) - Open-source light-sheet microscopes for imaging in cleared tissue.
@@ -78,7 +77,7 @@
 * [A-podcast](https://open.spotify.com/episode/2Zp3q6ePDCp0Yeyq9ADDny?si=8_CuBG2ESEeoxvcspVi3Xg) -  Open source hardware is the future.
 * [Amp hour](https://podcasts.google.com/feed/aHR0cHM6Ly90aGVhbXBob3VyLmxpYnN5bi5jb20vcnNz/episode/aHR0cDovL3d3dy50aGVhbXBob3VyLmNvbS8_cD0xNTg?sa=X&ved=0CAIQuIEEahcKEwjgkZnWjPr0AhUAAAAAHQAAAAAQCA) - Open Hardware and The Creative Economy.
 * [Semiconductor Insiders](https://semiwiki.com/podcast/podcast-ep44-open-hardware-diversity-alliance/) - Open Hardware Diversity Alliance.
-* [Open source hardware podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9wcm9ncmFtbWluZ2VsZWN0cm9uaWNzLmNvbS9jYXRlZ29yeS9yYWRpby1zaG93L2ZlZWQv) - by the Programming Electronics Academy.
+* [Open source hardware podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9wcm9ncmFtbWluZ2VsZWN0cm9uaWNzLmNvbS9jYXRlZ29yeS9yYWRpby1zaG93L2ZlZWQv) - By the Programming Electronics Academy.
 
 ## Books
 
@@ -89,11 +88,11 @@
 
 ## Further Readings
 
-* [Open Source Guide](https://opensource.guide/) - A website created by Github to help people work on open source projects.
+* [Open Source Guide](https://opensource.guide/) - A website created by GitHub to help people work on open source projects.
 * [Wikipedia](https://en.wikipedia.org/wiki/Open-source_hardware) - General information about Open Source Hardware.
-* [Open Collective](https://opencollective.com/) - enables groups to quickly set up a collective, raise funds and manage them transparently.
+* [Open Collective](https://opencollective.com/) - Enables groups to quickly set up a collective, raise funds and manage them transparently.
 * [The Journal of Open Hardware](https://openhardware.metajnl.com/) - (JOH) is a peer reviewed open access publication for open hardware research and development.
-* [OSHWA Certification](https://certification.oshwa.org/) -  provides an easy and straightforward way for producers to indicate that their products meet a uniform and well-defined standard for open-source compliance.
+* [OSHWA Certification](https://certification.oshwa.org/) -  Provides an easy and straightforward way for producers to indicate that their products meet a uniform and well-defined standard for open-source compliance.
 * [HardwareX Journal](https://www.journals.elsevier.com/hardwarex) - An open access scientific hardware journal.
 
 ## Related awesome
