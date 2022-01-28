@@ -47,10 +47,10 @@
 
 ## Papers
 
-* [What is the “Source” of Open Source Hardware?](https://doi.org/10.5334/joh.7) - Paper by Jérémy Bonvoisin, Robert Mies, Jean-François Boujut, Rainer Stark
+* [What is the “Source” of Open Source Hardware?](https://doi.org/10.5334/joh.7) - Paper by Jérémy Bonvoisin, Robert Mies, Jean-François Boujut, Rainer Stark.
 * [Emerging Business Models for Open Source Hardware](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3331121) - Paper by Joshua M. Pearce.
-* [Towards national policy for open source hardware research: The case of Finland](https://doi.org/10.1016/j.techfore.2020.119986) - Paper by I. T. S. Heikkinen, H. Savin, J. Partanen, J. SeppäläJ, M. Pearce
-* [Open-Source Hardware in Education: A Systematic Mapping Study](http://dx.doi.org/10.1109/ACCESS.2018.2881929) - Paper by Ruben Heradio, Jesus Chacon, Hector Vargas, Daniel Galan, Jacobo Saenz, Luis De La Torre, Sebastian Dormido
+* [Towards national policy for open source hardware research: The case of Finland](https://doi.org/10.1016/j.techfore.2020.119986) - Paper by I. T. S. Heikkinen, H. Savin, J. Partanen, J. SeppäläJ, M. Pearce.
+* [Open-Source Hardware in Education: A Systematic Mapping Study](http://dx.doi.org/10.1109/ACCESS.2018.2881929) - Paper by Ruben Heradio, Jesus Chacon, Hector Vargas, Daniel Galan, Jacobo Saenz, Luis De La Torre, Sebastian Dormido.
 
 ## Conferences
 
@@ -76,9 +76,9 @@
 * [Physics Worlds](https://open.spotify.com/episode/4pjaUpl96YhjqBvjzV0K1H?si=ssJJH7ouSOW_ttGvF2Mtdg) - Episode on the global impact of open hardware.
 * [Command Line Heroes](https://open.spotify.com/episode/1yGuG9TKvS2lkH7wgRO8YF?si=PwAZCT0qSxW87HQlCa7AeA) -  Episode Makers unite.
 * [A-podcast](https://open.spotify.com/episode/2Zp3q6ePDCp0Yeyq9ADDny?si=8_CuBG2ESEeoxvcspVi3Xg) -  Open source hardware is the future.
-* [Amp hour](https://podcasts.google.com/feed/aHR0cHM6Ly90aGVhbXBob3VyLmxpYnN5bi5jb20vcnNz/episode/aHR0cDovL3d3dy50aGVhbXBob3VyLmNvbS8_cD0xNTg?sa=X&ved=0CAIQuIEEahcKEwjgkZnWjPr0AhUAAAAAHQAAAAAQCA) - Open Hardware and The Creative Economy
-* [Semiconductor Insiders](https://semiwiki.com/podcast/podcast-ep44-open-hardware-diversity-alliance/) - Open Hardware Diversity Alliance
-* [Open source hardware podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9wcm9ncmFtbWluZ2VsZWN0cm9uaWNzLmNvbS9jYXRlZ29yeS9yYWRpby1zaG93L2ZlZWQv) - by the Programming Electronics Academy
+* [Amp hour](https://podcasts.google.com/feed/aHR0cHM6Ly90aGVhbXBob3VyLmxpYnN5bi5jb20vcnNz/episode/aHR0cDovL3d3dy50aGVhbXBob3VyLmNvbS8_cD0xNTg?sa=X&ved=0CAIQuIEEahcKEwjgkZnWjPr0AhUAAAAAHQAAAAAQCA) - Open Hardware and The Creative Economy.
+* [Semiconductor Insiders](https://semiwiki.com/podcast/podcast-ep44-open-hardware-diversity-alliance/) - Open Hardware Diversity Alliance.
+* [Open source hardware podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9wcm9ncmFtbWluZ2VsZWN0cm9uaWNzLmNvbS9jYXRlZ29yeS9yYWRpby1zaG93L2ZlZWQv) - by the Programming Electronics Academy.
 
 ## Books
 
