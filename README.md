@@ -102,4 +102,4 @@
 
 Additional suggestions are welcomed! Check out contributing.md for guidelines.
 If you ever want to reference us, find us at [delftopenhardware.nl](https://delftopenhardware.nl). But you are in no way required to do so.
-(NOTE: If you're a maintainer listed on here who would like to be removed, just open an issue or email me privately.)
+(NOTE: If you're a maintainer listed on here who would like to be removed, just open an issue.)
