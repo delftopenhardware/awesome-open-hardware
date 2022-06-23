@@ -11,13 +11,10 @@
 * [Platforms](#platforms)
 * [Podcasts](#podcasts)
 * [Books](#books)
+* [Training programs](#training-programs)
 * [Further Readings](#further-readings)
 * [Related awesome](#related-awesome)
 
-## Training programs
-
-* [Open Hardware Makers](https://openhardware.space)
-* [Open Hardware Academy](https://openhardware.academy/)
   
 ## Projects
 
@@ -91,6 +88,12 @@
 * [Open-source Lab](https://books.google.nl/books?id=0bOKAAAAQBAJ&lpg=PP1&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) - Book by Josua m. Pearce, how to build your own hardware and reduce costs.
 * [Free to Make](https://books.google.nl/books?id=jz1bCwAAQBAJ&lpg=PA93&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) -  Book by Dale Dougherty, how the maker movement is chaning our schools, our jobs, and our minds.
 * [The bridge](https://www.nae.edu/174695/Fall-Bridge-on-Open-Source-Hardware) - Issue of the national academy of engineering on open source hardware.
+
+
+## Training programs
+
+* [Open Hardware Makers](https://openhardware.space)
+* [Open Hardware Academy](https://openhardware.academy/)
 
 ## Further Readings
 
