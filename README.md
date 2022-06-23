@@ -14,6 +14,11 @@
 * [Further Readings](#further-readings)
 * [Related awesome](#related-awesome)
 
+## Training programs
+
+* [Open Hardware Makers](https://openhardware.space)
+* [Open Hardware Academy](https://openhardware.academy/)
+  
 ## Projects
 
 * [Arduino](https://www.arduino.cc/) - Arduino is an open-source electronics platform.
@@ -49,6 +54,8 @@
 * [Emerging Business Models for Open Source Hardware](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3331121) - Paper by Joshua M. Pearce.
 * [Towards national policy for open source hardware research: The case of Finland](https://doi.org/10.1016/j.techfore.2020.119986) - Paper by I. T. S. Heikkinen, H. Savin, J. Partanen, J. SeppäläJ, M. Pearce.
 * [Open-Source Hardware in Education: A Systematic Mapping Study](http://dx.doi.org/10.1109/ACCESS.2018.2881929) - Paper by Ruben Heradio, Jesus Chacon, Hector Vargas, Daniel Galan, Jacobo Saenz, Luis De La Torre, Sebastian Dormido.
+* [Haves and have nots must find a better way: The case for open scientific hardware](https://doi.org/10.1371/journal.pbio.3000014) - Paper by Andre Maia Chagas
+* [Open Labware: 3-D Printing Your Own Lab Equipment](https://doi.org/10.1371/journal.pbio.1002086) - Paper by Tom Baden, Andre Maia Chagas, Greg Gage, Timothy Marzullo, Lucia L. Prieto-Godino, Thomas Euler
 
 ## Conferences
 
