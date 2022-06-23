@@ -24,6 +24,7 @@
 * [WikiHouse](https://www.wikihouse.cc/) - Digital designed open housing.
 * [RepRep](https://reprap.org/wiki/RepRap) - Humanity's first general-purpose, self-replicating manufacturing machine.
 * [OpenBCI](https://openbci.com/) - Brain computer interface.
+* [OpenMV](https://github.com/openmv/openmv) - Open-source, low-cost machine vision platform.
 * [OpenSPIM](https://openspim.org/) - Open Access platform for Three-dimensional (3D) microscopy.
 * [mesoSPIM](http://mesospim.org/) - Open-source light-sheet microscopes for imaging in cleared tissue.
 * [openUC2](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
