@@ -41,7 +41,7 @@
 * [How Open Hardware will Take Over the World](https://www.youtube.com/watch?v=Rfu_MKgu2Ik) - TEDx talk by Nathan Seidle.
 * [Revolution of the open hardware](https://www.youtube.com/watch?v=t56bojFAnUg) - TEDx talk by Bram Geenen.
 * [Why do open hardware](https://www.youtube.com/watch?v=UYRhupdnUcY) - Talk by Limor Fried (ladyada).
-* [Get your open hardware manufactured](https://www.youtube.com/watch?v=ifTaGRTPwLc) - Tips by Ian Tube, dangerous prototypes.
+* [Get your open hardware manufactured](https://www.youtube.com/watch?v=ifTaGRTPwLc) - Tips by Ian of Dangerous Prototypes.
 * [Open Hardware Projects to Fight COVID-19](https://www.youtube.com/watch?v=c1pwbnDAub0) - Collection video from N-O-D-E.
 * [Designing Open Hardware for 21st century science](https://www.youtube.com/watch?v=Od_9yJqc098) - Presentation by Andre Maia Chagas.
 * [Why open source hardware is(n't) working](https://www.youtube.com/watch?v=7ifGu22bhd4) - Presentation by David Cuartielles.
