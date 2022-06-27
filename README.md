@@ -73,6 +73,7 @@
 * [Openhardware.science](https://openhardware.science/) - Make open science hardware ubiquitous by 2025.
 * [Openlifescience](https://openlifesci.org/) - Program to make Open Science ambassadors in research.
 * [Thingiverse](https://www.thingiverse.com/) - A platform for sharing and contributing to design hardware for 3D printing, laser cutting and CNC milling.
+* [Kitspace.org](https://kitspace.org) - A place to build and share electronics projects. 
 
 ## Podcasts
 
@@ -110,6 +111,7 @@
 
 * [Awesome Open Electronics](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
 * [Awesome Open](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
+* [Aweomse Electronics](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
 
 ## Contributing
 
