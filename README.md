@@ -29,10 +29,12 @@
 * [OpenMV](https://github.com/openmv/openmv) - Open-source, low-cost machine vision platform.
 * [OpenSPIM](https://openspim.org/) - Open Access platform for Three-dimensional (3D) microscopy.
 * [mesoSPIM](http://mesospim.org/) - Open-source light-sheet microscopes for imaging in cleared tissue.
+* [Mutable Instruments](https://mutable-instruments.net/) - Open-source eurorack classics.
 * [openUC2](https://github.com/openUC2/UC2-GIT) - Open-source modular microscopy toolbox.
 * [OpenFlexure](https://openflexure.org/) - Open-source, 3D-printed microscope, including a precise mechanical stage.
 * [Biohack Academy](http://biohackacademy.github.io/) - Open-source biotechnological hardware such as Incubator, Thermocycler, Centrifuge, Microscope, etc.
 * [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - Open-source hardware projects for biology laboratories.
+* [Winterbloom](https://winterbloom.com) - Open-source eurorack modules, Thea has some stellar design write-ups on her blog.
 
 ## Talks
 
