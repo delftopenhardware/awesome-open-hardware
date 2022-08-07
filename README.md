@@ -24,7 +24,7 @@
 * [Open Source Ecology](https://www.opensourceecology.org/) - Industrial machines made open.
 * [SafeCast](https://safecast.org/) - Environmental measurements for the public domain.
 * [WikiHouse](https://www.wikihouse.cc/) - Digital designed open housing.
-* [RepRep](https://reprap.org/wiki/RepRap) - Humanity's first general-purpose, self-replicating manufacturing machine.
+* [RepRap](https://reprap.org/wiki/RepRap) - Humanity's first general-purpose, self-replicating manufacturing machine.
 * [OpenBCI](https://openbci.com/) - Brain computer interface.
 * [OpenMV](https://github.com/openmv/openmv) - Open-source, low-cost machine vision platform.
 * [OpenSPIM](https://openspim.org/) - Open Access platform for Three-dimensional (3D) microscopy.
