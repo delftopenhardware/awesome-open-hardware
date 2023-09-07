@@ -37,6 +37,8 @@
 * [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - Open-source hardware projects for biology laboratories.
 * [Winterbloom](https://winterbloom.com) - Open-source eurorack modules, Thea has some stellar design write-ups on her blog.
 * [Open Gamma Detector](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
+* [Opulo](https://docs.opulo.io/) - Project that develops a pick and place machine.
+* [FarmBot](https://farm.bot/pages/open-source) - automated gardening machine to grow vegetables.
 
 ## Talks
 
@@ -91,7 +93,7 @@
 
 * [Building open source hardware](https://books.google.nl/books?id=wg27BQAAQBAJ&lpg=PP1&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) - Book by Alicia Gibb, on building open source hardware from 2014.
 * [Open-source Lab](https://books.google.nl/books?id=0bOKAAAAQBAJ&lpg=PP1&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) - Book by Josua m. Pearce, how to build your own hardware and reduce costs.
-* [Free to Make](https://books.google.nl/books?id=jz1bCwAAQBAJ&lpg=PA93&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) -  Book by Dale Dougherty, how the maker movement is chaning our schools, our jobs, and our minds.
+* [Free to Make](https://books.google.nl/books?id=jz1bCwAAQBAJ&lpg=PA93&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) -  Book by Dale Dougherty, how the maker movement is changing our schools, our jobs, and our minds.
 * [The bridge](https://www.nae.edu/174695/Fall-Bridge-on-Open-Source-Hardware) - Issue of the national academy of engineering on open source hardware.
 
 
