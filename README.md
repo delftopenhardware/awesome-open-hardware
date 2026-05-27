@@ -38,6 +38,7 @@
 * [Open Gamma Detector](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
 * [Opulo](https://docs.opulo.io/) - Project that develops a pick and place machine.
 * [FarmBot](https://farm.bot/pages/open-source) - Automated gardening machine to grow vegetables.
+* [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 * [PiKVM](https://pikvm.org/) - Open and inexpensive DIY IP-KVM based on Raspberry Pi.
 * [Mekanika](https://www.mekanika.io/) - Tools and machines for makers.
 * [PiSpot Watch](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
