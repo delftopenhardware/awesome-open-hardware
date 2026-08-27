@@ -41,12 +41,16 @@
 * [PiKVM](https://pikvm.org/) - Inexpensive DIY IP-KVM based on Raspberry Pi.
 * [PiSpot Show](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi appliance that drives HDMI displays as self-updating Wi-Fi voucher kiosks with live weather.
 * [PiSpot Watch](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
+* [Ploopy](https://ploopy.co/) - 3D-printable peripherals running the QMK firmware.
 * [SlimeVR](https://slimevr.dev) - Full-body tracking sensors for virtual reality and motion capture.
 * [Winterbloom](https://winterbloom.com) - Eurorack modules; Thea has some stellar design write-ups on her blog.
 
 ### Development Boards
 
 * [Arduino](https://www.arduino.cc/) - Arduino is an electronics platform.
+* [iCEBreaker](https://codeberg.org/icebreaker-fpga/icebreaker) - Low-cost FPGA development board based around the Lattice iCE40.
+* [Icepi Zero](https://github.com/cheyao/icepi-zero) - A Lattice ECP5-based FPGA development board in the form factor of the Raspberry Pi Zero.
+* [nRF52840 ProMicro](https://github.com/sasodoma/nrf52840-promicro) - A Nordic nRF52840-based development board in the form factor of the Arduino Pro Micro.
 * [OpenMV](https://github.com/openmv/openmv) - Low-cost machine vision platform.
 * [pic0rick](https://github.com/kelu124/pic0rick/) - A Raspberry Pi Pico platform for pulse-echo ultrasound imaging hardware.
 
@@ -54,6 +58,8 @@
 
 * [Biohack Academy](https://assets.waag.org/biohackacademy) - Biotechnological hardware such as an incubator, thermocycler, centrifuge, microscope, etc.
 * [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - Hardware projects for biology laboratories.
+* [HackRF Pro](https://github.com/greatscottgadgets/hackrf-pro) - Upgraded version of the [HackRF One](https://github.com/greatscottgadgets/hackrf), a low-cost software-defined radio.
+* [LibreVNA](https://github.com/jankae/LibreVNA) - A vector network analyzer capable of measurements up to 6 GHz.
 * [mesoSPIM](http://mesospim.org/) - Light-sheet microscopes for imaging in cleared tissue.
 * [Open Gamma Detector](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
 * [OpenBCI](https://openbci.com/) - Brain-computer interface.
