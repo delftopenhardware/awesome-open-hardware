@@ -43,6 +43,7 @@
 * [PiSpot Watch](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
 * [Ploopy](https://ploopy.co/) - 3D-printable peripherals running the QMK firmware.
 * [SlimeVR](https://slimevr.dev) - Full-body tracking sensors for virtual reality and motion capture.
+* [vkey](https://github.com/vaulttec-dev/vaulttec-key) - USB security key on an off-the-shelf ESP32-C6 board holding TOTP codes, passwords and project `.env` files, with bare-metal Rust firmware and a button press for every secret; the threat model states what a general-purpose MCU cannot protect against.
 * [Winterbloom](https://winterbloom.com) - Eurorack modules; Thea has some stellar design write-ups on her blog.
 
 ### Development Boards
