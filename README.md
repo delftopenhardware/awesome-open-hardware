@@ -78,6 +78,7 @@
 * [KiCad](https://www.kicad.org/) - An electronic design automation program for designing printed circuit boards.
 * [KiCad StepUp](https://github.com/easyw/kicadStepUpMod) - A mechanical collaboration tool for moving projects between KiCad and FreeCAD.
 * [Ngspice](https://ngspice.sourceforge.io/download.html) - A mixed-signal electronic circuit simulator.
+* [AN Creation](https://ancreationoffice.com) - AN Creation is a free AI product development office. Point Grok or ChatGPT at it and it walks inventors from idea to launch, the professional way.
 
 ### Integrated Circuit
 
