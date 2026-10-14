@@ -81,6 +81,7 @@
 * [KiCad](https://www.kicad.org/) - An electronic design automation program for designing printed circuit boards.
 * [KiCad StepUp](https://github.com/easyw/kicadStepUpMod) - A mechanical collaboration tool for moving projects between KiCad and FreeCAD.
 * [Ngspice](https://ngspice.sourceforge.io/download.html) - A mixed-signal electronic circuit simulator.
+* [Kerf](https://github.com/pragyaangaur/Kerf) - A prototype version control system for CAD geometry with semantic diff, three-way merge and a merge gate that rebuilds the merged part and rejects it if it is invalid.
 
 ### Integrated Circuit
 
