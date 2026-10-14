@@ -21,6 +21,7 @@
 ### Automation, Manufacturing, and Robotics
 
 * [FarmBot](https://farm.bot/pages/open-source) - Automated gardening machine to grow vegetables.
+* [Gearotons M17](https://github.com/tomrodinger/servomotor) - Integrated servomotor with the motor, driver, motion controller and encoder in one NEMA 17 body.
 * [Hacker Fab](https://docs.hackerfab.org/home) - Nanofabrication tools for making integrated circuits.
 * [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover) - A six wheeled, build-it-yourself, open-source rover.
 * [Mekanika](https://www.mekanika.io/) - Tools and machines for makers.
