@@ -30,6 +30,7 @@
 * [Precious Plastic](https://www.preciousplastic.com/) - Tools to make plastic recycling as simple as possible.
 * [Prusa3D](https://www.prusa3d.com/) - 3D printer manufacturer who shares their work open online.
 * [RepRap](https://reprap.org/wiki/RepRap) - Humanity's first general-purpose, self-replicating manufacturing machine.
+* [SO-ARM 102](https://github.com/roboninecom/SO-ARM-102) - 3D-printable leader-follower robotic arm with a parallel gripper, open CAD files, a bill of materials, and assembly instructions.
 * [VORON Design](https://www.vorondesign.com/) - No-compromise 3D printer designs.
 * [WikiHouse](https://www.wikihouse.cc/) - Digital designed open housing.
 
@@ -139,6 +140,7 @@
 * [Kitspace.org](https://kitspace.org) - A place to build and share electronics projects. 
 * [BoardRepo](https://boardrepo.com) - Share KiCad and Altium projects as a link, with schematics, PCB views, BOM, and gerbers rendered in the browser.
 * [ICBOMS](https://icboms.com) - Open electronic component search engine, BOM management platform, and semiconductor distribution database.
+* [RoboPartPicker](https://robopartpicker.com) - Compiles bills of materials from open robotics projects and tracks parts sourcing, keeping unresolved and unpriced lines visible instead of dropping them.
 
 ## Podcasts
 
