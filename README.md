@@ -30,6 +30,7 @@
 * [Precious Plastic](https://www.preciousplastic.com/) - Tools to make plastic recycling as simple as possible.
 * [Prusa3D](https://www.prusa3d.com/) - 3D printer manufacturer who shares their work open online.
 * [RepRap](https://reprap.org/wiki/RepRap) - Humanity's first general-purpose, self-replicating manufacturing machine.
+* [SO-ARM 102](https://github.com/roboninecom/SO-ARM-102) - 3D-printable leader-follower robotic arm with a parallel gripper, open CAD files, a bill of materials, and assembly instructions.
 * [VORON Design](https://www.vorondesign.com/) - No-compromise 3D printer designs.
 * [WikiHouse](https://www.wikihouse.cc/) - Digital designed open housing.
 
