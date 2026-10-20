@@ -27,6 +27,7 @@
 * [Mekanika](https://www.mekanika.io/) - Tools and machines for makers.
 * [Millennium Machines](https://www.millennium-machines.com/) - A project dedicated to designing desktop CNC mills.
 * [Open Source Ecology](https://www.opensourceecology.org/) - Industrial machines made open.
+* [OpenAMRobot](https://github.com/openAMRobot) - General-purpose dual-arm mobile manipulator for embodied AI, with CAD, electronics, firmware and ROS 2 software.
 * [Opulo](https://docs.opulo.io/) - Project that develops a pick and place machine.
 * [Precious Plastic](https://www.preciousplastic.com/) - Tools to make plastic recycling as simple as possible.
 * [Prusa3D](https://www.prusa3d.com/) - 3D printer manufacturer who shares their work open online.
