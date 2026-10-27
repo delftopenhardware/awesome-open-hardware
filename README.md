@@ -143,6 +143,7 @@
 * [BoardRepo](https://boardrepo.com) - Share KiCad and Altium projects as a link, with schematics, PCB views, BOM, and gerbers rendered in the browser.
 * [ICBOMS](https://icboms.com) - Open electronic component search engine, BOM management platform, and semiconductor distribution database.
 * [RoboPartPicker](https://robopartpicker.com) - Compiles bills of materials from open robotics projects and tracks parts sourcing, keeping unresolved and unpriced lines visible instead of dropping them.
+* [PrintWhat](https://printwhat.app) - Free search engine for 3D-printable and CAD models that queries Printables, MakerWorld, Sketchfab, step.parts and other public sources at once, with every result linking to the original listing.
 
 ## Podcasts
 
