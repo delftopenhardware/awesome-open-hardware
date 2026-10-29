@@ -81,6 +81,7 @@
 * [KiCad](https://www.kicad.org/) - An electronic design automation program for designing printed circuit boards.
 * [KiCad StepUp](https://github.com/easyw/kicadStepUpMod) - A mechanical collaboration tool for moving projects between KiCad and FreeCAD.
 * [Ngspice](https://ngspice.sourceforge.io/download.html) - A mixed-signal electronic circuit simulator.
+* [nopekit](https://github.com/neuman/nopekit) - A Claude Code plugin that checks CAD and 3D-printed designs before you fabricate, where every check must prove it can fail.
 
 ### Integrated Circuit
 
