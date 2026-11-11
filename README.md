@@ -175,6 +175,7 @@
 * [The Journal of Open Hardware](https://openhardware.metajnl.com/) - (JOH) is a peer reviewed open access publication for open hardware research and development.
 * [OSHWA Certification](https://certification.oshwa.org/) - Provides an easy and straightforward way for producers to indicate that their products meet a uniform and well-defined standard for open-source compliance.
 * [HardwareX Journal](https://www.journals.elsevier.com/hardwarex) - An open-access scientific hardware journal.
+* [Hardware Engineering Checklists](https://github.com/Westlake-Systems/hardware-checklists) - Checklists under CC BY 4.0 for schematic and layout review, board bring-up, EMC pre-scan, compliance readiness, EVT/DVT/PVT exit, and release to manufacturing.
 
 ## Related Awesome
 
