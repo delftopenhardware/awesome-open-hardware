@@ -70,6 +70,7 @@
 * [OpenSPIM](https://openspim.org/) - Open-access platform for three-dimensional (3D) microscopy.
 * [openUC2](https://github.com/openUC2/UC2-GIT) - Modular microscopy toolbox.
 * [SafeCast](https://safecast.org/) - Environmental measurements for the public domain.
+* [TremorMesh](https://github.com/tylrcc/tremor-mesh) - Distributed earthquake early-warning network made of ~$15 ESP32 + MEMS seismometer nodes that only raise an alarm when enough nodes agree.
 
 ## Design Tools
 
