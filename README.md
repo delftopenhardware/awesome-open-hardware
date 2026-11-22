@@ -70,6 +70,7 @@
 * [OpenSPIM](https://openspim.org/) - Open-access platform for three-dimensional (3D) microscopy.
 * [openUC2](https://github.com/openUC2/UC2-GIT) - Modular microscopy toolbox.
 * [SafeCast](https://safecast.org/) - Environmental measurements for the public domain.
+ * [ESP32 ACIR Meter](https://github.com/daniil43ru/esp32-acir-meter) - Open-hardware AC internal-resistance meter for 18650/21700 cells: Kelvin four-wire sensing and lock-in detection on an ESP32, ~0.98 mOhm per ADC LSB. Design stage, hardware verification wanted.
 
 ## Design Tools
 
