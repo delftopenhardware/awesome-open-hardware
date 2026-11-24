@@ -81,6 +81,7 @@
 * [KiCad](https://www.kicad.org/) - An electronic design automation program for designing printed circuit boards.
 * [KiCad StepUp](https://github.com/easyw/kicadStepUpMod) - A mechanical collaboration tool for moving projects between KiCad and FreeCAD.
 * [Ngspice](https://ngspice.sourceforge.io/download.html) - A mixed-signal electronic circuit simulator.
+* [PCB TraceMill](https://github.com/aazriel/pcbtracemill) - A program for milling printed circuit boards on a hobby CNC router, turning Gerber and drill files into G-code with a 3D preview and auto-levelling.
 
 ### Integrated Circuit
 
