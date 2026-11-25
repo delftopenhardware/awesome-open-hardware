@@ -80,6 +80,7 @@
 * [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 * [KiCad](https://www.kicad.org/) - An electronic design automation program for designing printed circuit boards.
 * [KiCad StepUp](https://github.com/easyw/kicadStepUpMod) - A mechanical collaboration tool for moving projects between KiCad and FreeCAD.
+* [mesh2cad](https://github.com/emirmrkaljevic/mesh2cad) - A command line tool that converts STL meshes of simple mechanical parts into STEP files and editable parametric CadQuery, OpenSCAD, and FreeCAD scripts.
 * [Ngspice](https://ngspice.sourceforge.io/download.html) - A mixed-signal electronic circuit simulator.
 
 ### Integrated Circuit
